@@ -1,0 +1,13 @@
+{
+  "name": "api-tarjetas",
+  "version": "1.0.0",
+  "description": "Api pruebas aplicativo Cable Aéreo",
+  "main": "server.js",
+  "author": "Jose Luis B.A",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

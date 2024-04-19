@@ -1,0 +1,121 @@
+{
+  "tarjetas": [
+    {
+      "id": "0014908543",
+      "nombre": "Cable",
+      "saldo": 1500,
+      "entradas": [
+        {
+          "fecha": "25/03/2024",
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "30/03/2024",
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "10/04/2024",
+          "estacion": "Cambulos"
+        }
+      ],
+      "recargas": [
+        {
+          "fecha": "25/03/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "30/03/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "10/04/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        }
+      ]
+    },
+    {
+      "id": "0001066295",
+      "nombre": "Jose Luis B.A",
+      "saldo": 1000,
+      "entradas": [
+        {
+          "fecha": "10/04/2024",
+          "estacion": "Fundadores"
+        },
+        {
+          "fecha": "12/04/2024",
+          "estacion": "Fundadores"
+        },
+        {
+          "fecha": "16/04/2024",
+          "estacion": "Villamaria"
+        }
+      ],
+      "recargas": [
+        {
+          "fecha": "10/04/2024",
+          "cantidad": 1000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "12/03/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "14/04/2024",
+          "cantidad": 3000,
+          "estacion": "Cambulos"
+        }
+      ]
+    },
+    {
+      "id": "0000482202",
+      "nombre": "Tarjeta Rappi",
+      "saldo": 2000,
+      "entradas": [
+        {
+          "fecha": "10/04/2024",
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "12/04/2024",
+          "estacion": "Villamaria"
+        },
+        {
+          "fecha": "14/04/2024",
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "16/04/2024",
+          "estacion": "Cambulos"
+        }
+      ],
+      "recargas": [
+        {
+          "fecha": "25/03/2024",
+          "cantidad": 6000,
+          "estacion": "Villamaria"
+        },
+        {
+          "fecha": "30/03/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "10/04/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        },
+        {
+          "fecha": "13/04/2024",
+          "cantidad": 2000,
+          "estacion": "Cambulos"
+        }
+      ]
+    }
+  ]
+}
