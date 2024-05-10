@@ -1,9 +1,9 @@
 {
   "tarjetas": [
     {
-      "id": "0014908543",
+      "id": "2138891044",
       "nombre": "Cable",
-      "saldo": 1500,
+      "saldo": 12000,
       "entradas": [
         {
           "fecha": "25/03/2024",
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "id": "0001066295",
-      "nombre": "Jose Luis B.A",
+      "id": "0015909681",
+      "nombre": "Edwar",
       "saldo": 1000,
       "entradas": [
         {
@@ -73,9 +73,9 @@
       ]
     },
     {
-      "id": "0000482202",
-      "nombre": "Tarjeta Rappi",
-      "saldo": 2000,
+      "id": "2589656833",
+      "nombre": "Rappi",
+      "saldo": 7800,
       "entradas": [
         {
           "fecha": "10/04/2024",
